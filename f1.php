@@ -9,7 +9,7 @@
 </head>
 <body>
 <ol>
-    <li><a href="www.non-existing.com">link</a></li>
+    <li><a href="non-existing"><h1>link</h1></a></li>
 </ol>
 Body of html
 </body>
