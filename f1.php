@@ -8,6 +8,9 @@
     <title>Document</title>
 </head>
 <body>
-Booty of html
+<ul>
+    <li><a href="#">link</a></li>
+</ul>
+Body of html
 </body>
 </html>
