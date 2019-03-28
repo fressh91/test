@@ -8,9 +8,9 @@
     <title>Document</title>
 </head>
 <body>
-<ul>
+<ol>
     <li><a href="#">link</a></li>
-</ul>
+</ol>
 Body of html
 </body>
 </html>
