@@ -11,6 +11,6 @@
 <ol>
     <li><a href="non-existing.com"><h1>link</h1></a></li>
 </ol>
-Booty of html
+Booty of html5
 </body>
 </html>
