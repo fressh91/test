@@ -8,6 +8,6 @@
     <title>Document</title>
 </head>
 <body>
-Body of html
+Booty of html
 </body>
 </html>
