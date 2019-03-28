@@ -9,8 +9,8 @@
 </head>
 <body>
 <ol>
-    <li><a href="non-existing"><h1>link</h1></a></li>
+    <li><a href="non-existing.com"><h2>link</h2></a></li>
 </ol>
-Body of html
+Booty of html
 </body>
 </html>
